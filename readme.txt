@@ -1,3 +1,2 @@
 Read me.
-Merge test.
-Merge fast forward.
+Git is a free software.
